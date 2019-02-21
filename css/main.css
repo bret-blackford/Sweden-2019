@@ -1,0 +1,46 @@
+/* 
+    Created on : Feb 19, 2019, 7:15:31 PM
+    Author     : M Bret Blackford
+*/
+
+.nav-class {
+    display: inline;
+    background-color: lightgoldenrodyellow;
+    color: yellow;
+    padding: 4px;
+    font-size: 1.25em;
+}
+
+.stop {
+    float: left;
+    display: inline-block;
+    width: 30%;
+    margin: 5px;
+}
+
+a:hover {
+    background-color: blue;
+    color: yellow;
+}
+
+nav a:link {
+    text-decoration: none;
+}
+
+.address {
+    list-style-type: none;
+}
+
+#map{
+    height:400px;
+    width:100%;
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+    float:left;
+    clear:left;
+}
+
+
