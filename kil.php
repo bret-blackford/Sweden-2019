@@ -26,14 +26,13 @@ written by: M Bret Blackford
                 <li><a href="https://tinyurl.com/y3knp5lw">AirBnB info</a></li>
             </ul>
         </div>
-        <div id="stop2" class="stop">
-            <h2>D: Stormon</h1>
-                <p>Birthplace of Margit Vanja Bengtsson Steele</p>
-        </div>
         <div id="stop3" class="stop">
-            <h2>E: Forshaga</h1>
+            <h2>D: Forshaga</h1>
         </div>
-
+        <div id="stop2" class="stop">
+            <h2>E: Stormon</h1>
+            <p>Birthplace of <a href="http://www.sweden.mbret.tech/History/MargitTree/Margit.html">Margit Vanja Bengtsson Steele</a></p>
+        </div>
         <div id="map"></div>
 
         <script async defer

@@ -3,10 +3,14 @@
     Author     : M Bret Blackford
 */
 
+* {
+    margin-top: 0;
+    padding-top: 0;
+}
 .nav-class {
     display: inline;
-    background-color: lightgoldenrodyellow;
-    color: yellow;
+    background-color: yellow;
+    color: white;
     padding: 4px;
     font-size: 1.25em;
 }
@@ -19,8 +23,8 @@
 }
 
 a:hover {
-    background-color: blue;
-    color: yellow;
+    background-color: white;
+    color: red;
 }
 
 nav a:link {
