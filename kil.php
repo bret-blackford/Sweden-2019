@@ -23,7 +23,7 @@ written by: M Bret Blackford
                 <li>Kil</li>
                 <li>Värmlands län 665 91</li>
                 <li>Sweden</li>
-                <li><a href="https://tinyurl.com/y3oszdzp">AirBnB info</a></li>
+                <li><a href="https://tinyurl.com/y3knp5lw">AirBnB info</a></li>
             </ul>
         </div>
         <div id="stop2" class="stop">
