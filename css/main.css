@@ -82,6 +82,7 @@ li .a-class {
 
 li a:hover:not(#iamhere){
     background-color: blue;
+    color:white;
 }
 
 #iamhere {
