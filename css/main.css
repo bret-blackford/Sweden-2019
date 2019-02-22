@@ -7,28 +7,32 @@
     margin-top: 0;
     padding-top: 0;
 }
-.nav-class {
+/*.nav-class {
     display: inline;
     background-color: yellow;
     color: white;
     padding: 4px;
     font-size: 1.25em;
 }
+a:hover {
+    background-color: white;
+    color: red;
+}
+nav a:link {
+    text-decoration: none;
+}
+
+li#iamhere {
+    background: red;
+    color:yellow;
+    border-color: blue;
+}*/
 
 .stop {
     float: left;
     display: inline-block;
     width: 30%;
     margin: 5px;
-}
-
-a:hover {
-    background-color: white;
-    color: red;
-}
-
-nav a:link {
-    text-decoration: none;
 }
 
 .address {
@@ -48,3 +52,38 @@ h1 {
 }
 
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li .a-class {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.address li {
+    background-color: white;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%
+}
+
+li a:hover:not(#iamhere){
+    background-color: blue;
+}
+
+#iamhere {
+    background-color: green
+}

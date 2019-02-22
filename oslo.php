@@ -5,12 +5,15 @@ written by: M Bret Blackford
 <html>
     <head>
         <title>June 23-24</title>
+        <script src="js/oslo.js"></script>
+        
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/main.css" rel="stylesheet" type="text/css" media="all">
-        <script src="js/oslo.js"></script>
+        <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
+        <script src="js/general.js"></script>
     </head>
-    <body>
+    <body id="oslo">
 
         <?php include 'nav.php'; ?>
 
