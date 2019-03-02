@@ -34,7 +34,7 @@ function initMap() {
         },
     ];
 
-    var labels = 'CDEFGHIJKLMNOPQRSTUVWXYZ';
+    var labels = 'DEFGHIJKLMNOPQRSTUVWXYZ';
     var labelIndex = 0;
     // Loop through markers
     for (var i = 0; i < markers.length; i++) {

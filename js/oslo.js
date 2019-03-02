@@ -24,7 +24,7 @@ function initMap() {
             content: '<h1>Oslo Airport</h1>'
         },
     ];
-    var labels = 'CDEFGHIJKLMNOPQRSTUVWXYZ';
+    var labels = 'HIJKLMNOPQRSTUVWXYZ';
     var labelIndex = 0;
     // Loop through markers
     for (var i = 0; i < markers.length; i++) {

@@ -19,7 +19,8 @@ written by: M Bret Blackford
 
         <h1>Oslo Norway</h1>
         <div class="stop">
-        <h2>C: Oslo rental home:</h2>
+        <h2>H: Oslo rental home:</h2>
+        <a href="https://goo.gl/maps/W8RxeyPQuCz">lat: 59.911070, lng: 10.763146</a>
 
         <ul class="address">
             <li></li>
@@ -30,7 +31,8 @@ written by: M Bret Blackford
         </div>
         
         <div class="stop">
-        <h2>D: Olso Airport</h2>
+        <h2>I: Olso Airport</h2>
+        <a href="https://goo.gl/maps/FvCWiAWbweq">lat: 60.198233, lng: 11.100587</a><br/>
         Fly out June 26, 2019 @ 8:45am<br>
         AMERICAN AIRLINES OPERATED BY FINNAIR  flt# 8989<br>
         </div>

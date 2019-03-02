@@ -29,6 +29,10 @@ function initMap() {
           Lægdesvingen 46<br>\n\
           5096 Bergen'
         },
+        {
+            coords: {lat: 60.861924, lng: 7.111432},
+            content: '<h1>Flåm</h1>'
+        },
     ];
 
     var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
