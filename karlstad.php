@@ -4,8 +4,8 @@ written by: M Bret Blackford
 -->
 <html>
     <head>
-        <title>June 23-24</title>
-        <script src="js/oslo.js"></script>
+        <title>June 16-18</title>
+        <script src="js/karlstad.js"></script>
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,29 +13,24 @@ written by: M Bret Blackford
         <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
         <script src="js/general.js"></script>
     </head>
-    <body id="oslo">
+    <body id="karlstad">
 
         <?php include 'nav.php'; ?>
 
-        <h1>Oslo Norway</h1>
+        <h1>Karlstad Sweden</h1>
         <div class="stop">
-        <h2>H: Oslo rental home:</h2>
-        <a href="https://goo.gl/maps/W8RxeyPQuCz">lat: 59.911070, lng: 10.763146</a>
+        <h2>D: Elite Stadshotellet Karlstad:</h2>
+        <a href="https://goo.gl/maps/axEXFfsRfAr">lat: 59.911070, lng: 10.763146</a>
 
         <ul class="address">
             <li></li>
-            <li>Mandalls gate 12</li>
-            <li>Oslo, Norway</li>
-            <li><a href="https://tinyurl.com/y3oszdzp">AirBnB info</a></li>
+            <li>Kungsgatan 22</li>
+            <li>651 08 Karlstad</li>
+            <li>Karlstad, Sweden</li>
+            <li><a href="https://www.elite.se/sv/hotell/karlstad/stadshotellet/">Hotel info</a></li>
         </ul>
         </div>
         
-        <div class="stop">
-        <h2>I: Olso Airport</h2>
-        <a href="https://goo.gl/maps/FvCWiAWbweq">lat: 60.198233, lng: 11.100587</a><br/>
-        Fly out June 26, 2019 @ 8:45am<br>
-        AMERICAN AIRLINES OPERATED BY FINNAIR  flt# 8989<br>
-        </div>
                 
         <div id="map"></div>
 

@@ -20,7 +20,7 @@ written by: M Bret Blackford
         <h1>Kil Sweden</h1>
         <div id="stop1" class="stop">
 
-            <h2>D: Kil rental home:</h2>
+            <h2>E: Kil rental home:</h2>
             <a href="https://goo.gl/maps/krSgwqw76xk">lat: 59.547767, lng: 13.294745</a>
 
             <ul class="address">
@@ -32,11 +32,11 @@ written by: M Bret Blackford
             </ul>
         </div>
         <div id="stop3" class="stop">
-            <h2>E: Forshaga</h1>
+            <h2>F: Forshaga</h1>
             <a href="https://goo.gl/maps/ETqxxH4RZX62">lat: 59.530600, lng: 13.478434</a>
         </div>
         <div id="stop2" class="stop">
-            <h2>F: Stormon</h1>
+            <h2>G: Stormon</h1>
             <a href="https://goo.gl/maps/nZrvNCiusLq">lat: 59.536337, lng: 13.500746</a>
             <p>Birthplace of <a href="http://www.sweden.mbret.tech/History/MargitTree/Margit.html">Margit Vanja Bengtsson Steele</a></p>
         </div>

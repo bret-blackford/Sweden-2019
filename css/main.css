@@ -62,10 +62,12 @@ li .a-class {
 }
 
 li a:hover:not(#iamhere){
-    background-color: blue;
+    background-color: lightskyblue;
     color:white;
 }
 
 #iamhere {
-    background-color: green
+    background-color: blue;
+    color: yellow;
 }
+
