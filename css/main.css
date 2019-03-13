@@ -33,7 +33,7 @@ h1 {
 }
 
 
-ul {
+ul.nav-ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -66,8 +66,59 @@ li a:hover:not(#iamhere){
     color:white;
 }
 
+/* ========== */
 #iamhere {
     background-color: blue;
     color: yellow;
 }
 
+/* ========== */
+#currency {
+    float: right;
+    margin-right: 4%;
+    margin-top: 3em;
+}
+
+/* ========== */
+table.tableizer-table {
+    margin: 1em;
+    font-size: 14px;
+    border: 1px solid lightyellow; 
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    clear: left;
+} 
+.tableizer-table td {
+    padding: 4px;
+    margin: 3px;
+    border: 1px solid #CCC;
+}
+.tableizer-table th {
+    background-color: blue; 
+    color: white;
+    font-weight: bold;
+}
+
+/* ========== */
+ol.stops li{
+    list-style-type:decimal;
+    float: left;
+    clear: left;
+    color: red;
+}
+
+ol.stops ul li {
+    float: left;
+    clear:left;
+    margin-left: 2em;
+    list-style: none;
+    color:blue;
+}
+
+/* ========== */
+footer {
+    float: left;
+    clear: left;
+    margin-left: 3px;
+    margin-bottom: 2em;
+}
