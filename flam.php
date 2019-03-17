@@ -4,8 +4,8 @@ written by: M Bret Blackford
 -->
 <html>
     <head>
-        <title>June 23-24</title>
-        <script src="js/oslo.js"></script>
+        <title>June 14</title>
+        <script src="js/flam.js"></script>
         
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,30 +13,30 @@ written by: M Bret Blackford
         <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
         <script src="js/general.js"></script>
     </head>
-    <body id="oslo">
+    <body id="flam">
 
         <?php include 'nav.php'; ?>
 
-        <h1>Oslo Norway</h1>
+        <h1>Flåm Norway - Fjord Tour</h1>
         <div class="stop">
-        <h2>H: Oslo rental home:</h2>
-        <a href="https://goo.gl/maps/W8RxeyPQuCz">lat: 59.911070, lng: 10.763146</a>
-
-        <ul class="address">
-            <li></li>
-            <li>Mandalls gate 12</li>
-            <li>Oslo, Norway</li>
-            <li><a href="https://tinyurl.com/y3oszdzp">AirBnB info</a></li>
-        </ul>
+            <h1>Train</h1>
+        <h3>C.1.: Bergen -> Myrdal @ 10:51 am</h3>
+        
+        <h3>C.2.: Myrdal -> Flåm @ 11:55 am</h3>
         </div>
         
         <div class="stop">
-        <h2>I: Olso Airport</h2>
-        <a href="https://goo.gl/maps/FvCWiAWbweq">lat: 60.198233, lng: 11.100587</a><br/>
-        Fly out June 26, 2019 @ 8:45am<br>
-        AMERICAN AIRLINES OPERATED BY FINNAIR  flt# 8989<br>
+            <h1>Boat</h1>
+        <h3>C.3.: Lustra Boatane</h3>
+        <h3>Fjord Voyage</h3>
+        <h3>Flåm -> Gudvangen @ 13:30 - 15:15</h3>
         </div>
-                
+        
+        <div class="stop">
+            <h1>Train</h1>
+        <h3>C.4.: Voss -> Bergen @ 17:40 - 18:55</h3>
+        </div>
+        
         <div id="map"></div>
 
         <script async defer
@@ -44,6 +44,5 @@ written by: M Bret Blackford
         </script>
     </body>
 </html>
-
 
 
