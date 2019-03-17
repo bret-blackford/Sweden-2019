@@ -6,7 +6,7 @@ written by: M Bret Blackford
     <head>
         <title>June 14</title>
         <script src="js/flam.js"></script>
-        
+
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/main.css" rel="stylesheet" type="text/css" media="all">
@@ -19,24 +19,29 @@ written by: M Bret Blackford
 
         <h1>Flåm Norway - Fjord Tour</h1>
         <div class="stop">
-            <h1>Train</h1>
-        <h3>C.1.: Bergen -> Myrdal @ 10:51 am</h3>
-        
-        <h3>C.2.: Myrdal -> Flåm @ 11:55 am</h3>
-        </div>
-        
+            <h2>Train</h2>
+            <ul class="address">
+                <li>C.1.: Bergen -> Myrdal @ 10:51 am</li>
+                <li>C.2.: <a href="https://flamsbana.business.site/">Myrdal -> Flåm</a> @ 11:55 am</li>
+            </ul>
+        </div>  
+
         <div class="stop">
-            <h1>Boat</h1>
-        <h3>C.3.: Lustra Boatane</h3>
-        <h3>Fjord Voyage</h3>
-        <h3>Flåm -> Gudvangen @ 13:30 - 15:15</h3>
+            <h2>Boat</h2>
+            <ul class="address">
+                <li>C.3.: <a href="https://www.lustrabaatane.com/naeroyfjord-gudvangen-flam">LustraBaatane </a></li>
+                <li>Fjord Voyage</li>
+                <li>Flåm -> Gudvangen @ 13:30 - 15:15</li>
+            </ul>
         </div>
-        
+
         <div class="stop">
-            <h1>Train</h1>
-        <h3>C.4.: Voss -> Bergen @ 17:40 - 18:55</h3>
+            <h2>Train</h2>
+            <ul class="address">
+                <li>C.4.: Voss -> Bergen @ 17:40 - 18:55</li>
+            </ul>
         </div>
-        
+
         <div id="map"></div>
 
         <script async defer

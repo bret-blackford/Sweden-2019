@@ -33,13 +33,17 @@ h1 {
 }
 
 h2 {
+    font-size: 1.5em;
+}
+
+/*h3 {
     text-align: center;
     width: 100%;
     font-size: 1em;
     float:left;
     clear:left;
     color: blue;
-}
+}*/
 
 
 ul.nav-ul {
@@ -116,12 +120,24 @@ ol.stops li{
     color: red;
 }
 
-ol.stops ul li {
+/*ul.home li {
     float: left;
     clear:left;
     margin-left: 2em;
     list-style: none;
     color:blue;
+}*/
+
+ol.stops li ul.home li {
+    float: left;
+    clear:left;
+    margin-left: 2em;
+    list-style: none;
+    color:blue;
+}
+
+ul li {
+    margin-left: 0;
 }
 
 /* ========== */

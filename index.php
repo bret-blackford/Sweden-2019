@@ -64,7 +64,7 @@
 
         <ol class="stops">
             <li>June 11 - 16<br/>Bergen, Norway
-                <ul>
+                <ul class="home">
                     <li><a href="https://tinyurl.com/y4kzjaax">AirBnB</a></li>
                     <li><a href="https://goo.gl/maps/xFSLmKTUu862">lat: 60.369744, lng: 5.368918</a></li>
                     <li>Lægdesvingen 46</li>
@@ -73,7 +73,7 @@
                 </ul>
             </li>
             <li>June 16 - 18<br/>Karlstad, Sweden
-                <ul>
+                <ul class="home">
                     <li>Hotel Elite Stadshotellet Karstad</li>
                     <li><a href="https://goo.gl/maps/axEXFfsRfAr">lat: 59.911070, lng: 10.763146</a></li>
                     <li>Kungsgatan 22</li>
@@ -83,7 +83,7 @@
                 </ul>
             </li>
             <li>June 18 - 23<br/>Kil, Sweden
-                <ul>
+                <ul class="home">
                     <li><a href="https://tinyurl.com/y3knp5lw">AirBnB:</a></li>
                     <li><a href="https://goo.gl/maps/krSgwqw76xk">lat: 59.547767, lng: 13.294745</a></li>
                     <li>Värmlands län 665 91</li>
@@ -92,7 +92,7 @@
                 </ul>
             </li>
             <li>June 23 - 26<br/>Oslo, Norway
-                <ul>
+                <ul class="home">
                     <li><a href="https://tinyurl.com/y3oszdzp">AirBnB:</a></li>
                     <li><a href="https://goo.gl/maps/W8RxeyPQuCz">lat: 59.911070, lng: 10.763146</a></li>
                     <li>Mandalls gate 12</li>
