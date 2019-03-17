@@ -21,7 +21,7 @@ written by: M Bret Blackford
         <div class="stop">
             <h2>Train</h2>
             <ul class="address">
-                <li>C.1.: Bergen -> Myrdal @ 10:51 am</li>
+                <li>C.1.: Bergen -> Myrdal @ 8:39 - 10:51 am</li>
                 <li>C.2.: <a href="https://flamsbana.business.site/">Myrdal -> Flåm</a> @ 11:55 am</li>
             </ul>
         </div>  
