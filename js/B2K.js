@@ -22,7 +22,7 @@ var map = new google.maps.Map(document.getElementById('map'), options);
                 content: '<h1>Bergen Rental House</h1>'
         },
         {
-        coords: {lat: 60.400361, lng: 5.333143},
+        coords: {lat: 60.390940, lng: 5.333393},
                 content: '<h1>Bergen Train Station</h1>'
         },
         { 

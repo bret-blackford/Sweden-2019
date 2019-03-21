@@ -147,3 +147,14 @@ footer {
     margin-left: 3px;
     margin-bottom: 2em;
 }
+
+section.maps {
+    width: 90%;
+    margin: .5em;
+}
+
+img {
+    width:  95%;
+    height: auto;
+    align-content: center;
+}

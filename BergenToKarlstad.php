@@ -49,6 +49,10 @@ written by: M Bret Blackford
         </div>
 
         <div id="map"></div>
+        <section class="maps">
+            <img src="includes/Bergen2Oslo.jpg" alt="Bergen to Oslo train map"> 
+            <img src="includes/Bergen2Oslo-2.png" alt="Bergen to Oslo train map with elevation"> 
+        </section>
 
         <script async defer
                 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAW2KX_6CTT2KpHWuhQz4LWDV2O3AABWV8 &callback=initMap">
