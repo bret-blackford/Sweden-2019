@@ -149,8 +149,9 @@ footer {
 }
 
 section.maps {
-    width: 90%;
+    width: 96%;
     margin: .5em;
+    margin-left: 2.5%;
 }
 
 img {
