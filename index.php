@@ -55,7 +55,7 @@
                     <td>British Airways</td><td>794</td><td>UHR London</td><td>06/11/19 08:25 AM</td><td>HEL Helsinki</td><td>06/11/19 01:20 PM</td>
                 </tr>
                 <tr>
-                    <td>Finnair</td><td>941</td><td>HEL Helsinki</td><td>06/11/19 03:20 PM</td><td>BGO Bergen</td><td>06/11/19 04:15 PM</td>
+                    <td>Finnair</td><td>941</td><td>HEL Helsinki</td><td>06/11/19 03:40 PM</td><td>BGO Bergen</td><td>06/11/19 04:35 PM</td>
                 </tr>
             </tbody>
         </table>
