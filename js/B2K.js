@@ -2,8 +2,8 @@
 function initMap() {
 // Map options
 var options = {
-zoom: 8,
-        center: {lat: 60.861924, lng: 7.111432}
+zoom: 7,
+        center: {lat: 59.911287, lng: 10.752516}
 //center: { lat: centerLat, lng: centerLng}
 }
 
@@ -22,23 +22,23 @@ var map = new google.maps.Map(document.getElementById('map'), options);
                 content: '<h1>Bergen Rental House</h1>'
         },
         {
-        coords: {lat: 59.911217, lng: 10.752441},
+        coords: {lat: 60.400361, lng: 5.333143},
                 content: '<h1>Bergen Train Station</h1>'
         },
-        {
-        coords: {lat: 60.861924, lng: 7.111432},
+        { 
+        coords: {lat: 59.911287, lng: 10.752516},
                 content: '<h1>Oslo Central Station</h1>'
         },
         {
-        coords: {lat: 60.369744, lng: 5.368918},
+        coords: {lat: 59.911070, lng: 10.763146},
                 content: '<h1>Karlstad Bus Stop</h1>'
         },
         {
-        coords: {lat: 59.911070, lng: 10.763146},
+        coords: {lat: 59.381538, lng: 13.500633},
                 content: '<h1>Elite stadshotellet</h1>'
         },
         ];
-        var labels = '12356';
+        var labels = '12345';
         var labelIndex = 0;
         // Loop through markers
         for (var i = 0; i < markers.length; i++) {
