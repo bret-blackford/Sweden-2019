@@ -50,6 +50,7 @@ written by: M Bret Blackford
 
         <div id="map"></div>
         <section class="maps">
+            Below is the Norwegian State Railways (NSB) route map from Bergen station to Central Station in Oslo.
             <img src="includes/Bergen2Oslo.jpg" alt="Bergen to Oslo train map"> 
             <img src="includes/Bergen2Oslo-2.png" alt="Bergen to Oslo train map with elevation"> 
         </section>
