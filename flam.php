@@ -45,6 +45,11 @@ written by: M Bret Blackford
 
         <div id="map"></div>
 
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/oUDjkUJiwEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9lVOhLVaFK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
         <script async defer
                 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAW2KX_6CTT2KpHWuhQz4LWDV2O3AABWV8 &callback=initMap">
         </script>
