@@ -123,7 +123,10 @@
         </table>
 
         <footer>
-            Back home sometime June 26, 2019
+            <hr/>
+            Back home sometime June 26, 2019<br/>
+            ( <a href="includes/2019SwedenExpense.xlsx" download>travel expenses</a> )
+            <hr/>
         </footer>
 
         <?php
