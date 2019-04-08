@@ -19,9 +19,9 @@ function initMap() {
     // Array of markers
     var markers = [
         { 
-            coords: {lat: 559.547251, lng: 13.296079},
+            coords: {lat: 59.547251, lng: 13.296079},
             content: '<h1>Kil AirBnB</h1>\n\
-          Värmlands län<br>\n\
+          Rud 8, 665 92 Värmlands län<br>\n\
           Kil, Sweden'
         },
                 {   

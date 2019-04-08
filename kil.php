@@ -21,13 +21,13 @@ written by: M Bret Blackford
         <div id="stop1" class="stop">
 
             <h2>E: Kil rental home:</h2>
-            <a href="https://goo.gl/maps/hvj4MMiYy2U2">lat: 59.547767, lng: 13.294745</a>
+            <a href="https://tinyurl.com/y2f5bj3q">lat: 59.547767, lng: 13.294745</a>
 
             <ul class="address">
                 <li></li>
                 <li>Kil</li>
                 <li>Värmlands län Rud 8, 665 91</li>
-                <li>Sweden</li>
+                <li>Kil, Sweden</li>
                 <li><a href="https://tinyurl.com/y3knp5lw" class="addr">AirBnB info</a></li>
             </ul>
         </div>
