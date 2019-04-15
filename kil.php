@@ -21,7 +21,7 @@ written by: M Bret Blackford
         <div id="stop1" class="stop">
 
             <h2>E: Kil rental home:</h2>
-            <a href="https://tinyurl.com/y2f5bj3q">lat: 59.547767, lng: 13.294745</a>
+            <a href="https://www.google.com/maps/place/59°32'50.0%22N+13°17'45.9%22E/@59.547208,13.296079,348m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d59.547208!4d13.296079">lat: 59.547767, lng: 13.294745</a>
 
             <ul class="address">
                 <li></li>

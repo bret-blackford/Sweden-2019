@@ -15,7 +15,8 @@ written by: M Bret Blackford
     </head>
     <body id="B2K">
         <?php include 'nav.php'; ?>
-        <h1>Bergen to Karlstad</h1>
+        <h1>Bergen to Karlstad - 423 miles</h1>
+        <h3>Bergen to Oslo - 290 miles then Oslo to Karlstad - 133 miles</h3>
 
         <div class="stop">
             <h2>1: Bergen rental home:</h2>
