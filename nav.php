@@ -7,6 +7,7 @@
         <li class="nav-class" id="nav-karlstad"><a href="karlstad.php" class="a-class"> June 16-18</a></li>
         <li class="nav-class" id="nav-kil"><a href="kil.php" class="a-class"> June 18-23</a></li>
         <li class="nav-class" id="nav-oslo"><a href="oslo.php" class="a-class">June 23-26</a></li>
+        <li class="nav-class" id="nav-photos"><a href="photos.php" class="a-class">Photos</a></li>
     </ul>
 </nav>
 
