@@ -23,10 +23,7 @@ written by: M Bret Blackford
 
         <?php include 'nav.php'; ?>
 
-        <h1>2019 Sweden Trip (3)</h1>
-
         <div id="slideshow">
-            <p>Slick Carousel</p>
             <div class="slick"> 
 
                 <?php
