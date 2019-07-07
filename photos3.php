@@ -9,6 +9,8 @@ written by: M Bret Blackford
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/main.css" rel="stylesheet" type="text/css" media="all">
+        <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
 
         <!--link rel="stylesheet" type="text/css" href="slick/slick.css"/-->
         <!--link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/-->
@@ -23,26 +25,28 @@ written by: M Bret Blackford
 
         <h1>2019 Sweden Trip (3)</h1>
 
-        <div class="slickslider">
+        <div id="slideshow">
+            <p>Slick Carousel</p>
+            <div class="slick"> 
 
-            <?php
-            $dir = "media/*";
-            foreach (glob($dir) as $file) {
-                echo '<div><img src=' . $file . '/></div>';
-            }
-            ?>
+                <?php
+                $dir = "media/*";
+                foreach (glob($dir) as $file) {
+                    echo '<div><img src=' . $file . '></div>';
+                }
+                ?>
 
+            </div>
         </div>
 
-
-        <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-
         <script>
-            $('.basic').slick({
-                fade: true,
-                cssEase: 'ease-in-out'
+            $(document).ready(function () {
+                $('#slideshow .slick').slick({
+                    autoplay: true,
+                    autoplaySpeed: 3000,
+                });
             });
+
         </script>
 
     </body>
