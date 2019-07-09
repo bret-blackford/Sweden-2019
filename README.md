@@ -1,5 +1,5 @@
-"# Sweden-2019" 
-www.sweden-2019.blackford.info
+# Sweden-2019 
+### www.sweden-2019.blackford.info
 
 June 11 - 26, 2019
 
