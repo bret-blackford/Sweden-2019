@@ -13,6 +13,7 @@ On the trip were ...
   * Cora Blackford (daughter of Bret & Michelle)
   * Neva Blackford (daughter of Bret & Michelle)
   * David Blackford (son of Bret & Michelle)
+* Sheri "Booi" Blackford (daughter of Margaret)
 * Melanie Titone (grandaughter of Margaret and neice of Bret)
 
 Note: 2017 trip documented at www.sweden.blackford.info and www.travel.blackford.info/Sweden 
