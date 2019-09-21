@@ -18,4 +18,4 @@ On the trip were ...
 
 Note: 2017 trip documented at www.sweden.blackford.info and www.travel.blackford.info/Sweden 
 
-site is published at https://bret-blackford.github.io/Sweden-2019/
+site is also published at https://bret-blackford.github.io/Sweden-2019/
